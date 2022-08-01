@@ -4,6 +4,9 @@ This is the custom code that ia wrote for SMARS. You need to download an android
 Android app:
 https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller
 
+Install this library:
+https://github.com/adafruit/Adafruit-Motor-Shield-library
+
 My Instagram: 
 https://www.instagram.com/i.make.robots2/
 
