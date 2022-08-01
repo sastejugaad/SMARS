@@ -3,6 +3,7 @@
  * Video tutorial:- https://www.youtube.com/channel/UCe5G9yS2XvetGfjfT-O89vw
  * Ask for help on discord:- https://discord.gg/fMXvGty
  * Downlaod stl files for robot from here:-https://www.thingiverse.com/thing:2662828
+ * Install this library if you get AFMotor.h missing error https://github.com/adafruit/Adafruit-Motor-Shield-library
  */
 #include <AFMotor.h>  //Adafruit Motor drive library might need to install.
 #include <SoftwareSerial.h> //To declare new RX-TX pins
